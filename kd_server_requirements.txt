@@ -1,0 +1,14 @@
+trl~=0.25.1
+accelerate~=1.11.0
+transformers>=4.50.3
+datasets>=3.5.0
+pydantic~=2.12.4
+click~=8.3.0
+torch>=2.0.0
+wandb
+tqdm
+
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.0
+redis>=5.0.0
+python-multipart>=0.0.9
