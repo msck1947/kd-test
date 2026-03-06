@@ -7,7 +7,7 @@ echo "Starting provisioning script..."
 
 # Define workspace
 WORKSPACE="/workspace"
-REQ_URL="https://raw.githubusercontent.com/msck1947/kd-test/refs/heads/main/requirements.txt"
+REQ_URL="https://raw.githubusercontent.com/msck1947/kd-test/refs/heads/main/kd_server_requirements.txt"
 
 cd "$WORKSPACE"
 
